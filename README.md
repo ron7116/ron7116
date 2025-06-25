@@ -43,6 +43,27 @@
 </p>
 
 ---
+## 🧠 Skills
+
+### Frontend:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,js,react,reactrouter,nextjs" />
+</p>
+
+### Backend:
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database:
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,vite,postman,netlify" />
+</p>
 
 ## 📈 GitHub Stats
 
