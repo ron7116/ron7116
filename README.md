@@ -26,7 +26,7 @@ I'm a junior web developer with a focus on frontend and backend development usin
 ## 💻 My Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,js,react,nextjs,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb" />
 </p>
 
 ---
