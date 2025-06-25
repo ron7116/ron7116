@@ -26,7 +26,7 @@ I'm a junior web developer with a focus on frontend and backend development usin
 ## 💻 My Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,js,react,redux,nextjs,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,js,react,nextjs,nodejs,express,mongodb" />
 </p>
 
 ---
@@ -37,11 +37,8 @@ I'm a junior web developer with a focus on frontend and backend development usin
   <a href="farjilul.rony@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/farjilul-rony-10884134a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" />
   </a>
 </p>
 
