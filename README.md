@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-<table">
+<table>
 <tr>
 <td>
 
