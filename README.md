@@ -11,7 +11,23 @@
 ## 🧑‍💻 About Me
 
 I'm a junior web developer with a focus on frontend and backend development using modern JavaScript technologies. I love building responsive web apps and exploring new frameworks. Currently diving deeper into Next.js and improving my full-stack skills.
+<table>
+<tr>
+<td>
 
+- 👨‍💻 I'm passionate about web development and enjoy turning ideas into real-world web applications.  
+- 📚 I’ve learned **HTML, CSS, Tailwind CSS, DaisyUI, JavaScript, React, React Router, Node.js, Express.js, MongoDB**.  
+- 🚀 Currently learning **Next.js** to build full-stack React applications.  
+- 🌍 I'm working on a **tourism website** project using the MERN stack.  
+- 🤝 I’m open to collaborating on web-based projects to grow my skills and contribute to the community.  
+- 📬 You can reach me at **farjilul.rony@gmail.com** or 📱 **01784382573**
+
+</td>
+<td>
+  <img src="https://github.com/ron7116/ron7116/assets/your-image-path.jpg" width="250" alt="Farjilul Alam Rony"/>
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 What I'm Working On
