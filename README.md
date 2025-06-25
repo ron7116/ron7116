@@ -50,7 +50,7 @@
 
 ### Database:
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### Tools:
