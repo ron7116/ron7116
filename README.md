@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-<table style="border-top: 2px solid #ccc; padding-top: 10px;">
+<table">
 <tr>
 <td>
 
@@ -22,7 +22,7 @@
 
 </td>
 <td>
-  <img src="https://github.com/ron7116/ron7116/assets/your-image-path.jpg" width="250" alt="Farjilul Alam Rony"/>
+  <img src="https://i.ibb.co/TxzCvpHQ/github-aboutme.jpg" width="250" alt="Farjilul Alam Rony"/>
 </td>
 </tr>
 </table>
