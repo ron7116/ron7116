@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-<table>
+<table style="border-top: 2px solid #ccc; padding-top: 10px;">
 <tr>
 <td>
 
