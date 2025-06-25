@@ -3,39 +3,30 @@
   <img src="https://i.ibb.co/3rBNmJy/banner-github.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Farjilul Alam Rony</h1>
-<h3 align="center">Junior Web Developer | Passionate Learner</h3>
+<h1 align="center">Hi 👋, I'm Farjilul Alam Rony</h1>
+<h3 align="center">Junior Web Developer | MERN Stack Enthusiast</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a self-driven and curious learner with a passion for building web experiences that are fast, beautiful, and user-friendly. I enjoy solving real-world problems through code and continuously expanding my skills in frontend and backend technologies.
+I'm a junior web developer with a focus on frontend and backend development using modern JavaScript technologies. I love building responsive web apps and exploring new frameworks. Currently diving deeper into Next.js and improving my full-stack skills.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🌱 I’m exploring **Next.js** and **TypeScript**
-- 🧭 Building a **tourism website** project
-- 🛠️ Contributing to **open-source** and GitHub collaboration
-- 📚 Learning **design patterns** and clean code practices
+- 🌱 Learning **Next.js** for advanced frontend development  
+- 🛠 Building a **tourism website** with React and Express  
+- 🧪 Practicing **API integration** and **MongoDB operations**  
+- 🧰 Enhancing my **UI design** using Tailwind CSS and DaisyUI  
 
 ---
 
-## 🛠️ Skills & Tools
+## 💻 My Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,js,react,redux,nextjs,nodejs,express,mongodb" />
 </p>
 
 ---
@@ -43,20 +34,20 @@ I'm a self-driven and curious learner with a passion for building web experience
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-  </a>
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
   </a>
   <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook"/>
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ron7116&show_icons=true&theme=default" alt="GitHub Stats" />
