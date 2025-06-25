@@ -40,7 +40,7 @@
 
 ### Frontend:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,daisyui,js,react,reactrouter,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,react-router,nextjs,firebase" />
 </p>
 
 ### Backend:
