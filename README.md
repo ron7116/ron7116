@@ -9,8 +9,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-I'm a junior web developer with a focus on frontend and backend development using modern JavaScript technologies. I love building responsive web apps and exploring new frameworks. Currently diving deeper into Next.js and improving my full-stack skills.
 <table>
 <tr>
 <td>
