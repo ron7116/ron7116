@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/3rBNmJy/banner-github.png" alt="Banner" width="100%" />
+  <img src="https://ibb.co/gFRyhJzP" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Farjilul Alam Rony</h1>
