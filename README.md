@@ -40,7 +40,7 @@
 
 ### Frontend:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,react-router,nextjs,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,firebase" />
 </p>
 
 ### Backend:
@@ -55,7 +55,7 @@
 
 ### Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,vite,postman,netlify" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,vite,netlify" />
 </p>
 
 ---
