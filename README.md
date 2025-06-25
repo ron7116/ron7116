@@ -34,7 +34,7 @@ I'm a junior web developer with a focus on frontend and backend development usin
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="farjilul.rony@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
