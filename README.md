@@ -36,13 +36,6 @@
 
 ---
 
-## 💻 My Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb" />
-</p>
-
----
 ## 🧠 Skills
 
 ### Frontend:
@@ -65,6 +58,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,vite,postman,netlify" />
 </p>
 
+---
 ## 📈 GitHub Stats
 
 <p align="left">
