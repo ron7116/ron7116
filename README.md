@@ -22,9 +22,7 @@ I'm a junior web developer with a focus on frontend and backend development usin
 - 🧰 Enhancing my **UI design** using Tailwind CSS and DaisyUI  
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+a+Junior+MERN+Stack+Developer;I+love+building+web+apps+with+MongoDB,+Express,+React,+Node.js;Learning+every+day+🚀" alt="Typing SVG" />
-</p>
+
 ## 💻 My Tech Stack
 
 <p align="left">
